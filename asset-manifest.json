@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Ashwakum/monsters-rolodexNew/static/css/main.57c7b8b8.chunk.css",
-    "main.js": "/Ashwakum/monsters-rolodexNew/static/js/main.750c1382.chunk.js",
-    "main.js.map": "/Ashwakum/monsters-rolodexNew/static/js/main.750c1382.chunk.js.map",
-    "runtime-main.js": "/Ashwakum/monsters-rolodexNew/static/js/runtime-main.851358ae.js",
-    "runtime-main.js.map": "/Ashwakum/monsters-rolodexNew/static/js/runtime-main.851358ae.js.map",
-    "static/js/2.313ae473.chunk.js": "/Ashwakum/monsters-rolodexNew/static/js/2.313ae473.chunk.js",
-    "static/js/2.313ae473.chunk.js.map": "/Ashwakum/monsters-rolodexNew/static/js/2.313ae473.chunk.js.map",
-    "index.html": "/Ashwakum/monsters-rolodexNew/index.html",
-    "precache-manifest.f725b01c30c98643cbadf0eeb2f8b357.js": "/Ashwakum/monsters-rolodexNew/precache-manifest.f725b01c30c98643cbadf0eeb2f8b357.js",
-    "service-worker.js": "/Ashwakum/monsters-rolodexNew/service-worker.js",
-    "static/css/main.57c7b8b8.chunk.css.map": "/Ashwakum/monsters-rolodexNew/static/css/main.57c7b8b8.chunk.css.map",
-    "static/js/2.313ae473.chunk.js.LICENSE.txt": "/Ashwakum/monsters-rolodexNew/static/js/2.313ae473.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Ashwakum/monsters-rolodexNew/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Ashwakum/monsters-rolodex/static/css/main.57c7b8b8.chunk.css",
+    "main.js": "/Ashwakum/monsters-rolodex/static/js/main.27f8aece.chunk.js",
+    "main.js.map": "/Ashwakum/monsters-rolodex/static/js/main.27f8aece.chunk.js.map",
+    "runtime-main.js": "/Ashwakum/monsters-rolodex/static/js/runtime-main.c64c7bc7.js",
+    "runtime-main.js.map": "/Ashwakum/monsters-rolodex/static/js/runtime-main.c64c7bc7.js.map",
+    "static/js/2.313ae473.chunk.js": "/Ashwakum/monsters-rolodex/static/js/2.313ae473.chunk.js",
+    "static/js/2.313ae473.chunk.js.map": "/Ashwakum/monsters-rolodex/static/js/2.313ae473.chunk.js.map",
+    "index.html": "/Ashwakum/monsters-rolodex/index.html",
+    "precache-manifest.b4a50b219fd1075a278fd0f67d2763bc.js": "/Ashwakum/monsters-rolodex/precache-manifest.b4a50b219fd1075a278fd0f67d2763bc.js",
+    "service-worker.js": "/Ashwakum/monsters-rolodex/service-worker.js",
+    "static/css/main.57c7b8b8.chunk.css.map": "/Ashwakum/monsters-rolodex/static/css/main.57c7b8b8.chunk.css.map",
+    "static/js/2.313ae473.chunk.js.LICENSE.txt": "/Ashwakum/monsters-rolodex/static/js/2.313ae473.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ashwakum/monsters-rolodex/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.851358ae.js",
+    "static/js/runtime-main.c64c7bc7.js",
     "static/js/2.313ae473.chunk.js",
     "static/css/main.57c7b8b8.chunk.css",
-    "static/js/main.750c1382.chunk.js"
+    "static/js/main.27f8aece.chunk.js"
   ]
 }
